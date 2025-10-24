@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.5
+jupyter>=1.0
+svgwrite>=1.4
+cairosvg>=2.5
